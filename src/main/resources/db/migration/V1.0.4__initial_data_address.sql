@@ -1,0 +1,1 @@
+insert into address (user_id, city, street, no) values ( 1, 'istanbul', 'karadut', '29')

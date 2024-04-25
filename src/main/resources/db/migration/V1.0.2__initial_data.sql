@@ -1,0 +1,1 @@
+INSERT INTO public.users (name, surname, phone, email) VALUES ('can', 'armağan', '570', 'mailing.com' )
