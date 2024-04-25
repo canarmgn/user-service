@@ -40,11 +40,6 @@ public class UserController {
         return lRepo.findBySurname(surname);
     }
 
-    @GetMapping("/users/email")
-    public List<Users> getUserByEmail(@RequestParam String email) {
-        return lRepo.findByEmail(email);
-    }
-
     @GetMapping("/users/phone")
     public List<Users> getUserByPhone(@RequestParam String phone) {
         return lRepo.findByPhone(phone);
