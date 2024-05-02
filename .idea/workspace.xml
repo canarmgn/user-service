@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7151e5a0-d54b-429e-89da-46aa65fbe5ca" name="Changes" comment="delete email service">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/user/service/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/user/service/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/user/service/model/response/UsersResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/user/service/model/response/UsersResponse.java" afterDir="false" />
-    </list>
+    <list default="true" id="7151e5a0-d54b-429e-89da-46aa65fbe5ca" name="Changes" comment="delete email service" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +58,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "Spring Boot.DemoApplication.executor": "Debug",
-    "Spring Boot.UserServiceApplication.executor": "Run",
+    "Spring Boot.UserServiceApplication.executor": "Debug",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/canarmagan/Desktop/projeler/user-service",
@@ -132,7 +128,7 @@
       <workItem from="1714048164251" duration="2460000" />
       <workItem from="1714050701950" duration="918000" />
       <workItem from="1714651721775" duration="568000" />
-      <workItem from="1714652329816" duration="3253000" />
+      <workItem from="1714652329816" duration="3651000" />
     </task>
     <task id="LOCAL-00001" summary="delete email service">
       <option name="closed" value="true" />
@@ -142,11 +138,36 @@
       <option name="project" value="LOCAL" />
       <updated>1714051020679</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="delete email service">
+      <option name="closed" value="true" />
+      <created>1714657774109</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714657774109</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
