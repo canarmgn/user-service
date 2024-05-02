@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7151e5a0-d54b-429e-89da-46aa65fbe5ca" name="Changes" comment="delete email service" />
+    <list default="true" id="7151e5a0-d54b-429e-89da-46aa65fbe5ca" name="Changes" comment="Delete update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -128,7 +128,7 @@
       <workItem from="1714048164251" duration="2460000" />
       <workItem from="1714050701950" duration="918000" />
       <workItem from="1714651721775" duration="568000" />
-      <workItem from="1714652329816" duration="3651000" />
+      <workItem from="1714652329816" duration="3705000" />
     </task>
     <task id="LOCAL-00001" summary="delete email service">
       <option name="closed" value="true" />
@@ -146,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714657774109</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Delete update">
+      <option name="closed" value="true" />
+      <created>1714657897420</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714657897420</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,6 +182,7 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="delete email service" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete email service" />
+    <MESSAGE value="Delete update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Delete update" />
   </component>
 </project>
