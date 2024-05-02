@@ -53,7 +53,7 @@ public class UserController {
     @DeleteMapping("/user/{userId}")
     public String deleteUser(@PathVariable long userId){
          userService.deleteUser(userId);
-         return "Kullanıcı Silindi";
+         return "Kullanıcı Başarıyla Silindi";
     }
 
     @PutMapping("/user/{userId}")

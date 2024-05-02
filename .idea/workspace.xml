@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7151e5a0-d54b-429e-89da-46aa65fbe5ca" name="Changes" comment="" />
+    <list default="true" id="7151e5a0-d54b-429e-89da-46aa65fbe5ca" name="Changes" comment="delete email service">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/user/service/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/user/service/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/user/service/model/response/UsersResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/user/service/model/response/UsersResponse.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +62,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "Spring Boot.DemoApplication.executor": "Debug",
-    "Spring Boot.UserServiceApplication.executor": "Debug",
+    "Spring Boot.UserServiceApplication.executor": "Run",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/canarmagan/Desktop/projeler/user-service",
     "node.js.detected.package.eslint": "true",
@@ -125,7 +130,19 @@
       <workItem from="1713953868048" duration="12983000" />
       <workItem from="1714048029048" duration="105000" />
       <workItem from="1714048164251" duration="2460000" />
+      <workItem from="1714050701950" duration="918000" />
+      <workItem from="1714651721775" duration="568000" />
+      <workItem from="1714652329816" duration="3253000" />
     </task>
+    <task id="LOCAL-00001" summary="delete email service">
+      <option name="closed" value="true" />
+      <created>1714051020679</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714051020679</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,5 +152,7 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="delete email service" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete email service" />
   </component>
 </project>
