@@ -30,6 +30,8 @@ public class HelloController {
     public String deneme(@PathVariable(name = "message",required = false) String message) {
         return "Mesajınız:" + message + "Kaydedilmiştir";
         //  required, eğer boş bırakılırsa null dönmesini sağlıyor
+
+        //deneme 1
     }
 
     @GetMapping("/message2")
